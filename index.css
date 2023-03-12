@@ -1,0 +1,115 @@
+*{
+    background: #0d1116;
+}
+#box{
+    width:70%;
+    height: fit-content;
+    margin: 50px auto 0;
+    border: #31363d 1px solid;
+    border-radius: 6px;
+}
+#header{
+    width: 100%;
+    height: 60px;
+    background: #161a22;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#img{
+    width:24px;
+    height: 24px;
+    margin-left: 20px;
+    background-color: #161a22;
+    border-radius: 100%;
+}
+#readme{
+    background-color: #161a22;
+    color:white;
+    margin-left: 10px;
+    font-family: 'Golos Text', sans-serif;
+}
+.ah{
+    display: flex;
+    background-color: #161a22;
+    align-items: center;
+}
+.link{
+    color: #58a5ff;
+    text-decoration: none;
+    background-color: #161a22;
+    font-weight: 900;
+}
+.slash{
+    color: #6a737d;
+    background-color: #161a22;
+}
+.commit{
+    color: #6a737d;
+    background-color: #161a22;
+    font-family: 'Golos Text', sans-serif;
+    margin-right: 20px;
+}
+.dummy{
+    text-decoration: none;
+    color: white;
+}
+.commit-code{
+    text-decoration: none;
+    color:#6a737d;
+    background-color: #161a22;
+}
+.commit-code:hover{
+    color: #58a5ff;
+    text-decoration: underline;
+}
+.text{
+    color:#c1c8d0;
+    font-family: 'Golos Text', sans-serif;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+.content{
+    width:85%;
+    margin: 0 auto 0;
+}
+.name{
+    margin-top: 35px;
+    color:#c1c8d0;
+    font-family: 'Golos Text', sans-serif;
+}
+.hr{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0.2px solid #31363d;
+}
+.bold{
+    font-weight: 900;
+}
+.white{
+    color: white;
+}
+.h2{
+    color: #c1c8d0;
+    font-family: 'Golos Text', sans-serif;
+    font-size:22px;
+    margin-top: 27px;
+    margin-bottom: 20px;
+}
+.linn{
+    color: #c1c8d0;
+    font-family: 'Golos Text', sans-serif;
+    font-size: 16px;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color:#58a5ff;
+}
+.linn:hover{
+    text-decoration: underline;
+}
+.link:hover{
+    text-decoration: underline;
+}
+.last{
+    margin-bottom: 40px;
+}
