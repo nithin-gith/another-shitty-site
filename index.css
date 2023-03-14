@@ -113,3 +113,12 @@
 .last{
     margin-bottom: 40px;
 }
+
+@media screen and (max-width: 767px) {
+    #box{
+        width: 90%;
+    }
+    .commit{
+        display: none;
+    }
+}
