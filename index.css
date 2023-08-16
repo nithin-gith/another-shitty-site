@@ -4,7 +4,7 @@
 #box{
     width:70%;
     height: fit-content;
-    margin: 50px auto 0;
+    margin: 50px auto 50px;
     border: #31363d 1px solid;
     border-radius: 6px;
 }
